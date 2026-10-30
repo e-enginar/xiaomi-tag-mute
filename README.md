@@ -13,7 +13,7 @@ Before going further, please test these functions:
 
 There are mainly 4 parts:
 ![All Parts Breakdown](All_parts.jpg)
-1. **Front plate** (covering the battery, there's also part of the hidden button and Bluetooth mod)
+1. **Front plate** (covering the battery, there's also pad of the hidden button and battery. Also the Bluetooth antenna)
 2. **Back plate** (the speaker and NFC sensor are in this part)
 3. **Mid case** (A large part that holds the battery, independent of the top and bottom plates)
 4. **Gray circle** (An accessory that contains no circuitry and serves solely to hang the device somewhere. However, the device might lose its waterproof and dustproof properties if you don't use it.)
@@ -41,7 +41,7 @@ The back plate and mid case are glued from the inside. You should heat the glue 
 If you managed to separate these parts, congratulations! You tore it down completely (or at least enough to reach NFC and the speaker).
 
 ## STEP 2: MODIFYING
-![Pins on Mid Case and Pads on Back Plate](black_plate_pins.jpg)
+![Pins on Mid Case and Pads on Back Plate](back_plate_pins.jpg)
 
 As you can see, there are 2 pairs of pins (on the mid case) and their respective pads (on the back plate). The pink circled pair is the power path to the buzzer, and the red circled pair is NFC's power. If we simply block the path by adding an isolation layer between these pins and pads, the respective function will shut off.
 
