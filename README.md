@@ -62,7 +62,7 @@ At that point, if you closed the speaker function, the device will not make a so
 
 If the function(s) are still on, look for a puncture on the tape. If it works the way you want, the next step is closing the parts back up.
 
-## STEP 3: REINTEGRATION
+## STEP 3: REASSEMBLY
 You need to glue the back plate and mid case back together.
 ![Super Glue Application Area](glue.png)
 
