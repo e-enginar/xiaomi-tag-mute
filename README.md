@@ -25,7 +25,7 @@ Especially if you are using a metal object for prying, plastic can deform very e
 You can see a gap on the right side of the tag to open the battery compartment. Just pry open the front plate with your fingernail or with a screwdriver(watch out for the battery inside)
 ![Before Back Plate Removal](all_parts_before_back_plate.jpg)
 
-After taking off the battery, it's should like the image above
+After taking off the battery, it's should look like the image above
 
 
 You can see the clips of the gray circle; try to set free some clips, then it will go off when you pull it from the hanging section.
@@ -44,12 +44,12 @@ If you managed to separate these parts, congratulations! You tore it down comple
 ## STEP 2: MODIFYING
 ![Pins on Mid Case and Pads on Back Plate](back_plate_pins.jpg)
 
-As you can see, there are 2 pairs of pins (on the mid case) and their respective pads (on the back plate). The pink circled pair is the power path to the buzzer, and the red circled pair is NFC's antenna. If we simply block the path by adding an isolation layer between these pins and pads, the respective function will shut off.
+As you can see, there are 2 pairs of pins (on the mid case) and their respective pads (on the back plate). The pink circled pair is the power path to the buzzer, and the red circled pair is NFC antenna. If we simply block the path by adding an isolation layer between these pins and pads, the respective function will shut off.
 
 These functions can work separately, so you can use it with the buzzer off and NFC on; buzzer on and NFC off; or both off. Just put kapton or electrical tape on the pads you want to shut off.
 ![Pads Covered with Electrical Tape](back_plate_covered.jpg)
 
-*A reference image: The NFC pads are completely covered with electrical tape. As for the buzzer, while the ground pad is covered, a portion of the positive (+) pad remains exposed; however, since the ground pin is not in contact with its pad, the circuit is not completed, and the function will not work.*
+*A reference image: The NFC pads are completely covered with electrical tape;kapton works the same way. As for the buzzer, while the ground pad is covered, a portion of the positive (+) pad remains exposed; however, since the ground pin is not in contact with its pad, the circuit is not completed, and the function will not work.*
 
 **Warning:**
 Don't forget the pins in the mid case can puncture the isolation material. I recommend using two layers of tape.
@@ -67,7 +67,7 @@ If the function(s) are still on, look for a puncture on the tape. If it works th
 You need to glue the back plate and mid case back together.
 ![Super Glue Application Area](glue.jpg)
 
-You can use super glue on the square-patterned area of the mid case which shown green texture on the above image. just be careful to not spill it to gasket. Next, attach the gray circle to its clips (if you do not like the gray circle or need to fit it into a tight space, you can skip this step; the version without the circle is shown below, though please note that it will likely lose its water-resistant property if used this way).
+You can use super glue on the square-patterned area of the mid case which is shown with a green crosshatch in the image above. Just be careful not to spill it to gasket. Next, attach the gray circle to its clips (if you do not like the gray circle or need to fit it into a tight space, you can skip this step; the version without the circle is shown below, though please note that it will likely lose its water-resistant property if used this way).
 ![Tag Assembled Without the Gray Circle](no_circle.jpg)
 
 Then insert the battery and close the front plate.
