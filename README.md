@@ -1,6 +1,6 @@
 # xiaomi-tag-mute
 ![Xiaomi Tag Overview](xiaomi_tag.jpg)
-Explaining how I managed to mute the speaker and turn off NFC on my Xiaomi Tag.
+This guide shows how to make a Xiaomi Tag silent — disabling the beeping speaker and turning off NFC(optional) — without any firmware change.
 *Tested on the BLE version (M2543T1). The UWB version of it may differ.*
 
 Disclaimer:
