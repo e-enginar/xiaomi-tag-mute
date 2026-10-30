@@ -25,7 +25,7 @@ Especially if you are using a metal object for prying, plastic can deform very e
 You can see a gap on the right side of the tag to open the battery compartment. Just pry open the front plate with your fingernail or with a screwdriver(watch out for the battery inside)
 ![Before Back Plate Removal](all_parts_before_back_plate.jpg)
 
-After taking off the battery, it's should look like the image above
+After taking off the battery, it should look like the image above
 
 
 You can see the clips of the gray circle; try to set free some clips, then it will go off when you pull it from the hanging section.
