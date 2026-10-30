@@ -12,7 +12,7 @@ Before going further, please test these functions:
 - Bring the back of your phone close to the device; you should immediately receive a notification on your phone stating that NFC has been detected (if this is not working, look at your phone's NFC settings. Also, your phone may not have NFC, just google it).
 
 There are mainly 4 parts:
-![All Parts Breakdown](all_parts.jpg)
+![All Parts Breakdown](All_parts.jpg)
 1. **Front plate** (covering the battery, there's also part of the hidden button and Bluetooth mod)
 2. **Back plate** (the speaker and NFC sensor are in this part)
 3. **Mid case** (A large part that holds the battery, independent of the top and bottom plates)
@@ -36,7 +36,7 @@ If you look closely, there's a white waterproof gasket at the intersection point
 You can use this gap in the next step to open it.
 
 The back plate and mid case are glued from the inside. You should heat the glue first. I simply use a 1200W hairdryer, hold it to the middle of the case for 10-15 seconds (it can blow away if you hold it to the sides), then quickly try to pry it open. If you can't take it apart in 10 seconds, heat it back up and try again.
-![Back Plate Separated](back_plate_out.jpg)
+![Back Plate Separated](backplate_out.jpg)
 
 If you managed to separate these parts, congratulations! You tore it down completely (or at least enough to reach NFC and the speaker).
 
@@ -64,7 +64,7 @@ If the function(s) are still on, look for a puncture on the tape. If it works th
 
 ## STEP 3: REINTEGRATION
 You need to glue the back plate and mid case back together.
-![Super Glue Application Area](glue.jpg)
+![Super Glue Application Area](glue.png)
 
 You can use super glue on the square-patterned area of the mid case. Next, attach the gray circle to its clips (if you do not like the gray circle or need to fit it into a tight space, you can skip this step; the version without the circle is shown below, though please note that it will likely lose its water-resistant property if used this way).
 ![Tag Assembled Without the Gray Circle](no_circle.jpg)
