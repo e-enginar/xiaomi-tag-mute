@@ -1,6 +1,6 @@
 # xiaomi-tag-mute
 ![Xiaomi Tag Overview](xiaomi_tag.jpg)
-Explaining how I managed to mute the speaker and turn off NFC on my Xiaomi Tag.
+Explaining how I managed to mute the speaker and turn off NFC on my Xiaomi Tag.(Tested on the BLE version (M2543T1). The UWB version may differ.)
 
 Disclaimer:
 This guide is for informational and educational purposes only. This operation is obviously out of warranty.
@@ -21,17 +21,17 @@ There are mainly 4 parts:
 **Warning:**
 Especially if you are using a metal object for prying, plastic can deform very easily.
 
-You can see a gap on the right side of the tag to open the battery compartment. Just pry open the front plate with your finger or with a screwdriver.
+You can see a gap on the right side of the tag to open the battery compartment. Just pry open the front plate with your fingernail or with a screwdriver(watch out for the battery inside)
 ![Before Back Plate Removal](all_parts_before_back_plate.jpg)
 
-After taking off the battery, it's going to look like this:
-![Circle Accessory Removed](circle_out.jpg)
+After taking off the battery, it's going to look like this
+
 
 You can see the clips of the gray circle; try to set free some clips, then it will go off when you pull it from the hanging section.
-
+![Circle Accessory Removed](Circle_out.jpg)
 **Warning for next step:**  
 If you look closely, there's a white waterproof gasket at the intersection point of the back plate and mid case. It looks like there's no glue between the gasket and the back plate; it's just glued to the case. So, if you don't want to lose its waterproof property, you should be careful when opening it.
-![Waterproof Gasket Gap](gasket_gap.jpg)
+![Waterproof Gasket Gap](gasket_gap.png)
 
 You can use this gap in the next step to open it.
 
@@ -43,9 +43,9 @@ If you managed to separate these parts, congratulations! You tore it down comple
 ## STEP 2: MODIFYING
 ![Pins on Mid Case and Pads on Back Plate](back_plate_pins.jpg)
 
-As you can see, there are 2 pairs of pins (on the mid case) and their respective pads (on the back plate). The pink circled pair is the power path to the buzzer, and the red circled pair is NFC's power. If we simply block the path by adding an isolation layer between these pins and pads, the respective function will shut off.
+As you can see, there are 2 pairs of pins (on the mid case) and their respective pads (on the back plate). The pink circled pair is the power path to the buzzer, and the red circled pair is NFC's antenna. If we simply block the path by adding an isolation layer between these pins and pads, the respective function will shut off.
 
-These functions can work separately, so you can use it with the buzzer off and NFC on; buzzer on and NFC off; or both off. Just put electrical tape on the pads you want to shut off.
+These functions can work separately, so you can use it with the buzzer off and NFC on; buzzer on and NFC off; or both off. Just put kapton or electrical tape on the pads you want to shut off.
 ![Pads Covered with Electrical Tape](back_plate_covered.jpg)
 
 *A reference image: The NFC pads are completely covered with electrical tape. As for the buzzer, while the ground pad is covered, a portion of the positive (+) pad remains exposed; however, since the ground pin is not in contact with its pad, the circuit is not completed, and the function will not work.*
