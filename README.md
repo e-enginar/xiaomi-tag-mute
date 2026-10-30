@@ -1,6 +1,7 @@
 # xiaomi-tag-mute
 ![Xiaomi Tag Overview](xiaomi_tag.jpg)
-Explaining how I managed to mute the speaker and turn off NFC on my Xiaomi Tag.(Tested on the BLE version (M2543T1). The UWB version may differ.)
+Explaining how I managed to mute the speaker and turn off NFC on my Xiaomi Tag.
+*Tested on the BLE version (M2543T1). The UWB version of it may differ.*
 
 Disclaimer:
 This guide is for informational and educational purposes only. This operation is obviously out of warranty.
@@ -24,14 +25,14 @@ Especially if you are using a metal object for prying, plastic can deform very e
 You can see a gap on the right side of the tag to open the battery compartment. Just pry open the front plate with your fingernail or with a screwdriver(watch out for the battery inside)
 ![Before Back Plate Removal](all_parts_before_back_plate.jpg)
 
-After taking off the battery, it's going to look like this
+After taking off the battery, it's should like the image above
 
 
 You can see the clips of the gray circle; try to set free some clips, then it will go off when you pull it from the hanging section.
 ![Circle Accessory Removed](Circle_out.jpg)
 **Warning for next step:**  
 If you look closely, there's a white waterproof gasket at the intersection point of the back plate and mid case. It looks like there's no glue between the gasket and the back plate; it's just glued to the case. So, if you don't want to lose its waterproof property, you should be careful when opening it.
-![Waterproof Gasket Gap](gasket_gap.png)
+![Waterproof Gasket Gap](gasket_gap.jpg)
 
 You can use this gap in the next step to open it.
 
@@ -64,9 +65,9 @@ If the function(s) are still on, look for a puncture on the tape. If it works th
 
 ## STEP 3: REASSEMBLY
 You need to glue the back plate and mid case back together.
-![Super Glue Application Area](glue.png)
+![Super Glue Application Area](glue.jpg)
 
-You can use super glue on the square-patterned area of the mid case. Next, attach the gray circle to its clips (if you do not like the gray circle or need to fit it into a tight space, you can skip this step; the version without the circle is shown below, though please note that it will likely lose its water-resistant property if used this way).
+You can use super glue on the square-patterned area of the mid case, just be careful to not spill it to that gasket. Next, attach the gray circle to its clips (if you do not like the gray circle or need to fit it into a tight space, you can skip this step; the version without the circle is shown below, though please note that it will likely lose its water-resistant property if used this way).
 ![Tag Assembled Without the Gray Circle](no_circle.jpg)
 
 Then insert the battery and close the front plate.
