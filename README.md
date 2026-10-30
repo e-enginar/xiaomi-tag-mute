@@ -66,4 +66,7 @@ If the function(s) are still on, look for a puncture on the tape. If it works th
 You need to glue the back plate and mid case back together.
 ![Super Glue Application Area](glue.jpg)
 
-You can use super glue on the square-patterned area of the mid case. Next, attach the gray circle to its clips (if you do not like the gray circle or need to fit it
+You can use super glue on the square-patterned area of the mid case. Next, attach the gray circle to its clips (if you do not like the gray circle or need to fit it into a tight space, you can skip this step; the version without the circle is shown below, though please note that it will likely lose its water-resistant property if used this way).
+![Tag Assembled Without the Gray Circle](no_circle.jpg)
+
+Then insert the battery and close the front plate.
