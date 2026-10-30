@@ -31,7 +31,8 @@ After taking off the battery, it should look like the image above
 You can see the clips of the gray circle; try to set free some clips, then it will go off when you pull it from the hanging section.
 ![Circle Accessory Removed](Circle_out.jpg)
 **Warning for next step:**  
-If you look closely, there's a white waterproof gasket at the intersection point of the back plate and mid case. It looks like there's no glue between the gasket and the back plate; it's just glued to the case. So, if you don't want to lose its waterproof property, you should be careful when opening it.
+If you look closely, there's a white waterproof gasket at the intersection point of the back plate and mid case. It looks like there's no glue between the gasket and the back plate; it's just glued to the case. So, if you don't want to lose its waterproof property, you should be very careful when opening it.
+(As you can see from my desk in the background, I’m not a very careful person. And yes, I tore the gasket too)
 ![Waterproof Gasket Gap](gasket_gap.jpg)
 
 You can use this gap in the next step to open it.
